@@ -1,0 +1,3 @@
+Crea un nuevo proyecto con PyBuilder y copia el contenido de esta carpeta a la carpeta del
+nuevo proyecto. Sustituye los archivos que te pregunte y ejecuta el comando:
+pyb -E develop
